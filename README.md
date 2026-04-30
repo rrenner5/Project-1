@@ -1,4 +1,4 @@
-# Project 1
+# CIVE 202 - Project 1
 
 This repository includes the files for Project 1 for CIVE 202. 
 
